@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.berkeley.cs186.database.concurrency.TestLockManager
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.037 sec - in edu.berkeley.cs186.database.concurrency.TestLockManager
